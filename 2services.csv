@@ -1,10 +1,10 @@
-Service,Description,Price,Installation fee,Location
-Brightspeed Internet 100,Speeds up to 100 Mbps,$50/month,$100 ,New York
-Brightspeed Internet 200,Speeds up to 200 Mbps,$60/month,$100 ,Los Angeles
-Brightspeed Internet 500,Speeds up to 500 Mbps,$100/month,$100 ,Chicago
-Brightspeed Internet 940,Speeds up to 940 Mbps,$150/month,$100 ,Houston
-Brightspeed TV,"Wide range of TV channels with live TV, on-demand content, and DVR capabilities","{""Starting at"": ""$30/month""}",$100 ,"""Miami"
-Brightspeed Phone,"Phone service with unlimited local and long-distance calling, and advanced features","{""Starting at"": ""$20/month""}",$50 ,Boston
-Customizable plans,Options for bundling multiple services together to fit the needs of different customers,N/A,$50 ,Atlanta
-Customer support,"24/7 support available by phone, email, or online chat",Free,$0 ,Phoenix
-Mobile app,"App for managing accounts, paying bills, and accessing support resources on the go",Free,$0 ,
+Service,Description,Price,Installation fee
+Brightspeed Internet 100,Speeds up to 100 Mbps,$50/month,$100
+Brightspeed Internet 200,Speeds up to 200 Mbps,$60/month,$100 
+Brightspeed Internet 500,Speeds up to 500 Mbps,$100/month,$100 
+Brightspeed Internet 940,Speeds up to 940 Mbps,$150/month,$100 
+Brightspeed TV,"Wide range of TV channels with live TV, on-demand content, and DVR capabilities","{""Starting at"": ""$30/month""}",$100 
+Brightspeed Phone,"Phone service with unlimited local and long-distance calling, and advanced features","{""Starting at"": ""$20/month""}",$50 
+Customizable plans,Options for bundling multiple services together to fit the needs of different customers,N/A,$50
+Customer support,"24/7 support available by phone, email, or online chat",Free,$0 
+Mobile app,"App for managing accounts, paying bills, and accessing support resources on the go",Free,$0 
