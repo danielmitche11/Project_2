@@ -1,3 +1,7 @@
 python-dotenv
 langchain
 sentence-transformers
+streamlit
+langchain_experimental
+langchain_openai
+pinecone-client
