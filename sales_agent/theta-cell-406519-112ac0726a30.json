@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "theta-cell-406519",
+  "private_key_id": "112ac0726a307433251da5e7558a71f28dbedd05",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDaUWWlQ33ARlyz\nMhB5OSdzL20iMULqTHy4ENuwYigFVtG8b92CEamsINSXXzEpyjt8nYxiGJhpQ1Sq\nbE1299m2kxfB9vEKk8GbuoBEtARrvB9hZK6bhoOnOa4xcagTYR+RkJMkRxfQGPRe\ncZrSs+w+jT1bq5uiAC3cDN+K+s8kgLjQ+hxJTqxtnuEEVrtNHON+PhuHYkw1VcFM\nEF6oRJnFg+JHUnntI8sPTgFWsfiXRnxbDrjMYAKkw1ZEdpxtPdi9EP5amCKlnMHG\nOnKY3kEej8Z9AqgRlcyUUuwh9KvxOk61YEDpcI7TkolNW3m+y1tMUJUuf3m8g/0A\nl/Xt0ZVnAgMBAAECggEAAnA+TmY+lVMz3dyFSpVU13iEI4mhUbSg//1QNtwhzk11\n8kDdnIJN/tovBbHOfsT/fRjVZJMZwLM70tt60gVarStfbI8xigi0dOTUYfAQzJNB\nVnklah9KgSenxm2ajvzauWl/+zvADFb7A8MJE6lmzhwNv2RfTKPr3zVVmdvLTIEO\nQ0TAzRncuyvEzT4RYgJgEHWhsrxlEaZRLQv2CDWaD8HYDyWUUpiICEOsWciu2Qs7\ncMP56VwLy88SqmJVfZaLOGDXS/ftqwRHpzPKzZQtsXXU9q6njoh3kWam0ytFuYEg\n73agYyA57tY1XBVKIUq86f0tEqzROM0+g/AeLMEcwQKBgQD/t76MUGaWtke1DSNH\nKVqu+nkFpxahXdTrdFxdc647jFybuD5nAX6xjsdb92jrMjNxNDRoc0egd+sTPUab\n4Y0TnaqsaH3m1rJlCuxCkSnwVcLhlaEMaOBsU8+SOW7O8C+6+rsnXTYAQmh2luxe\n47KHaejg+SIZU1mOdO/rej3NPwKBgQDajxXEe3juL3jBS4febfw76rIlIrYNcv8l\nzYNdeUMJ0ES3hhynJLORh5+ceBqq3g1HTjnm9nyzXM2aplA4h3tUMCpH3snscIHo\nza9o5+K77VaJy4lkr7HX55sNuwZADghTLBwPJH67qOV1O8104cm3puuHftiEN1dv\nh/ALi5ul2QKBgEQNgT9UMkkPj3vGWEoa3lBMxiJT+jjNgNl8aQxRud+NFiQ23xyI\nkE/ugG2gJSLahEgvLXdSnpA8+alwGDdpyiKbRg2F7WOeZXFwe7mnajLUj/161ZY4\n3ujVURtH/45A62LmUSJDsxhUk/pjZdpG3H8fF2OvyXxV6zJ3OlY/fOz/AoGAGebx\nRnr3pwrbPdVMwfC4/wTengYSG1/wmzNTCUXwyv3y1uk/BhQUb//py6p0RqHQYw4D\nULsPplYuS9DAGyL7W8vlhuUBe1MOImAWFNG+jlUfd2821kb4RcU+HA95OygulmTY\n4naJyoXGw/EVdW+471oJ+eHvmSPR6fbrXQLrrGkCgYA9jKLVN0E0UojOyOT3zkcd\nNFj8YqbU7Xip+EYiistVhsF20ymxCStT/w6hQOZCCRadrEhNjZpjAw8BPHgVWnJE\nvfbhXJ+da63HHC3QM/ukfvtp7+z9rY+tT/WRrdne6mJ1D6Dwg+j496vrZDs3uGWV\nYN408OadRpTVfVJXYD63EA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "trng-1855-project-2@theta-cell-406519.iam.gserviceaccount.com",
+  "client_id": "110951682019660924068",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trng-1855-project-2%40theta-cell-406519.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
