@@ -4,4 +4,8 @@ sentence-transformers
 streamlit
 langchain_experimental
 langchain_openai
+<<<<<<< HEAD
 pinecone-client
+=======
+pinecone-client
+>>>>>>> 0ec583e5e2a587b7bd10aadde9eab9a5a517f378
