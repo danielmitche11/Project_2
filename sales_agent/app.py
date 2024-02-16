@@ -13,9 +13,10 @@ if 'chat' not in st.session_state:
     "role": "ai"
   }]
 
+
 user_input = st.chat_input('message:', key= "user_input")
-classifier = predict_text_classification_single_label_sample(content=user_input)
-print(classifier)
+
+
 
 # adding user input to session
 if user_input:
@@ -23,21 +24,23 @@ if user_input:
     "content": user_input,
     "role": "user"
   })
-  # calling the langchain sales agent
-  agent = get_agent()
+  classifier = predict_text_classification_single_label_sample(content=user_input)
+  print(classifier)
+  agent = get_agent(classifier)
+
 
   # generating completeion for users prompt by invoking the agent
-  try:
-    agent_response = agent.invoke({user_input})
+  #try:
+  agent_response = agent.invoke({user_input})
     # adding ai agent response to the session state
-    st.session_state['chat'].append({
-      "content": agent_response['output'],
-      "role": "ai"})
-  except :
+  st.session_state['chat'].append({
+    "content": agent_response['output'],
+    "role": "ai"})
+  #except :
     # handlinig any parsing errors
-    st.session_state['chat'].append({
-      "content": "Sorry, I'm not sure I can help with that.",
-      "role":"ai"})
+   # st.session_state['chat'].append({
+    #  "content": "Sorry, I'm not sure I can help with that.",
+     # "role":"ai"})
 
 # rendering the messesges from chat
 if st.session_state['chat']:

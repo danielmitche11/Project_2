@@ -5,7 +5,7 @@ from model import get_chat
 import streamlit as st
 # from model import get_chat_model
 from memory import get_memory
-from prompts import sales_prompt
+from prompts import sales_prompt, service_prompt
 from tools.vector_tool import get_vector_tool
 
 # memory= get_memory().clear()
@@ -21,10 +21,17 @@ def get_tools():
 
     return tools
 
-def get_agent():
+def get_agent(category):
     model = get_chat()
     memory = get_memory()
-    system_message = sales_prompt
+
+    match category:
+        case "Sales":
+            system_message = sales_prompt
+            print("Sales agent loaded")
+        case "Service":
+            system_message = service_prompt
+            print("Service agent loaded")
 
     agent_definition = ConversationalChatAgent.from_llm_and_tools( 
         llm = model, 
