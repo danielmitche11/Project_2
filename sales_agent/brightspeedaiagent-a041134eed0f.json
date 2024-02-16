@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "brightspeedaiagent",
+  "private_key_id": "a041134eed0fffc1d312896260b79694fcb62d9f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnI/LCcatl9C3T\nBuyLL0AlhnlrVuYrG9xq6kpoXs14pQhgr6ADzSb6bsA+KWzgMbLU+XgKstoihKal\nYzaP9bHmQUF13w6Yx4GzzNQhEfGiF348hbTnXsOmNrKoRoRba1L5fP4i3Pw1sQt8\nkM1LrEX9A7c55vDSOa0l1ClpRp5Z5NXpeQWtZtVvyKAF9uHX8tG26GMFd37+V3u/\nG3U1c1O8pF0mlW1P8GH5hU3MMS+s0Vayn86dewVZqOiIwv/73nuyzjYsl4lKZFNQ\nYXs6ZXbTiDJSLdm71ybyQY6ulrQPbq7uopO4g/lb6yK6CVNqLlgaLrWxndojAF0W\nbOFFKtmhAgMBAAECgf8X4UzBhfiKtsh43FuBVZYIOEkH57mpOcViiExOmaB+Nutr\ngXNV+0Ki3ixyQ25B9mYNvR4LWw0TFs8GuV0+xg9qMSUSDOc8jOEgf0/Wt/fTbyC/\nekWyFzZECwHw9zCDu7cg+OrPWwcKVpThHJ1xPthWaK+4nwSUBLQ9v9ex8SNAjWXj\ntMiDAY85zxkmsxvCMDo8WKm1TMOiIi8Ol+gEHm67xTDpT6vhvhkKm0L7F8/m2Gn9\nilrzvtv6X8MsdzvNAjKF10ZH5z65CSByjq+axa8PfqjiiH+FzUV3Hy5z9Ap7zQX/\nLuA6WlqCsN7syhBtOgBOa0u/IysukuPhu3u3GDECgYEA6VMzRNqOED6eh9wcFlq7\n29xBE91Gdy7Yx2/C5DnurO2tMqPYXInMdwoByuJd7cYxY+DXMZX9hVQK/i/xNT9n\n2bFB9HK4esz739VATwAt3MdyW3HZrJgiw5Ak7sV4nFFABlmUfWYt1YG7AXgJnlnP\nN/UGMvRcwAWsgs7oFP5in9ECgYEAt2IrE1XmnDMCNNPUaLnJ2AHlNi5uLH0MZw5d\noopJqjk0cyqzJ28C3QotWllq8XLQ3tN2lG340TsNbsBnHz2cmxQv6r8XTid0fSAd\n9FEQAwmF4v6rOCuqjb5VVusKyndOWR7QFXxuKdzj7CX/+lIK9h10AdiyaJyge8NU\n8ZU4YNECgYEAjSMZ4S1/P85RIQeBKfiKqGzsJLL1/AQnd0RglKOCf7Jp0TcRGrD0\nMJGqEeqqPLlliPAp28HKEEuNNsMTWk1XaXRy3AZFF2tFdNlPRDpsg59VyoDs1h1U\n8g0QeiqTUaNIYk7vpocXdI4766CL2PCki0m5DTuJm1ITTzEPbBuQ1vECgYEAqIUE\n8qrQ1h+l2mgDXQ3GZ8MuIMFAK4/qktXHxDNyiIQzJ9ZIdmd0aS4OCWX8ec86FFqd\nML9ylMvAh1M2MKZMwNInSoC6aO6nBMk73aWUokXhDH1dWKv/+mu7PrmV3AMRM6K2\nM9h53+yGYx90gVNdkVf1oDDDmpC8hZ818x9ehNECgYEAiLsv1xVEzKdT5pQ8W16d\nVrmKhoEozc+Mx4HJyZ7LOhKbdmhDQVPRvjJGdz4QNl6IEew2bBDItfk830/GShXT\nX+rtGWFfhL6Tu5yXYWXycps6Z4hvufktXgzuMW42yePQIZXvvPrnVh91BcPgd7p0\nt6cLaWXQOM2ozTT5PnBfY68=\n-----END PRIVATE KEY-----\n",
+  "client_email": "brightspeed-service@brightspeedaiagent.iam.gserviceaccount.com",
+  "client_id": "110234406142637087055",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/brightspeed-service%40brightspeedaiagent.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
